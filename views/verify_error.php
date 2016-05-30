@@ -1,0 +1,1 @@
+<div class="alert alert-danger"><span class="glyphicon glyphicon-info-sign"></span> &nbsp; <?php echo $err; ?></div>
