@@ -41,7 +41,7 @@
 								<div class="description">
 									<p>
 										Logging in has never been more secure with 2-step verification! Try it out with this example application. 
-										Read more from <a href="http://messente.com/documentation/verification-widget"><strong>messente.com</strong></a> and stay secure!
+										Read more from <a href="http://messente.com/documentation/verification-widget" target="_blank"><strong>messente.com</strong></a> and stay secure!
 									</p>
 								</div>
 							</div>
@@ -113,7 +113,7 @@
 									<div class="description">
 									<p>
 										Verify new users by SMS! Try it out with this example application. 
-										Read more from <a href="http://messente.com/documentation/verification-widget"><strong>messente.com</strong></a> and stay secure!
+										Read more from <a href="http://messente.com/documentation/verification-widget" target="_blank"><strong>messente.com</strong></a> and stay secure!
 									</p>
 									</div>
 								</div>
